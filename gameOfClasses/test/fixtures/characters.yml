@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pType: MyString
+  vitality: 1
+  lifePoints: 1
+  hability: MyString
+  level: 1
+  defPoints: 1
+  atkPoints: 1
+  player_id: 
+
+two:
+  pType: MyString
+  vitality: 1
+  lifePoints: 1
+  hability: MyString
+  level: 1
+  defPoints: 1
+  atkPoints: 1
+  player_id: 

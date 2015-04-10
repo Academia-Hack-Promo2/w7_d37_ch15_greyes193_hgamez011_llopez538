@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vitality1: 1
+  vitality2: 1
+  winner: 1
+  retired: false
+  character_id: 
+
+two:
+  vitality1: 1
+  vitality2: 1
+  winner: 1
+  retired: false
+  character_id: 

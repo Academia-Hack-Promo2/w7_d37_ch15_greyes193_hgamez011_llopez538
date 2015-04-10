@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  age: 1
+  vitality: 1
+  lifePoints: 1
+  hability: MyString
+  defPoints: 1
+  atkPoints: 1
+
+two:
+  name: MyString
+  age: 1
+  vitality: 1
+  lifePoints: 1
+  hability: MyString
+  defPoints: 1
+  atkPoints: 1

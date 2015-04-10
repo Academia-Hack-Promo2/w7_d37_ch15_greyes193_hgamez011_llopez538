@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  pType: 1
+  wType: MyString
+  damage: 1
+  defence: 1
+  price: 1
+
+two:
+  name: MyString
+  pType: 1
+  wType: MyString
+  damage: 1
+  defence: 1
+  price: 1
